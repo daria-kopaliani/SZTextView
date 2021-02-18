@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "SZTextView"
-  s.version        = '1.3.0'
+  s.version        = '1.3.1'
   s.summary      = "A UIView subclass displaying download progress. Looks similarly to springboard icons of apps being downloaded in iOS 7."
   s.summary        = 'A drop-in UITextView replacement which gives you a placeholder.'
   s.homepage       = 'https://github.com/glaszig/SZTextView'
